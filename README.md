@@ -1,5 +1,3 @@
-# readme
-
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 
 <h3 align="left">Languages and Tools:</h3>
